@@ -1,0 +1,1096 @@
+AL022006_2006_extratropical	0.0
+AL022006_2006_other low	0.0
+AL022006_2006_tropical depression	0.0
+AL022006_2006_tropical storm	235800000.0
+AL102004_2004_other low	0.0
+AL102004_2004_tropical depression	0.0
+Al202011_2011_extratropical	0.0
+Al202011_2011_other low	0.0
+Al202011_2011_tropical depression	0.0
+Al202011_2011_tropical storm	192375000.0
+Alberto_2006_extratropical	9456682656.25
+Alberto_2006_tropical depression	0.0
+Alberto_2006_tropical storm	3786716346.1538463
+Alberto_2012_other low	0.0
+Alberto_2012_tropical depression	0.0
+Alberto_2012_tropical storm	274943750.0
+Alberto_2018_other low	0.0
+Alberto_2018_subtropical depression	0.0
+Alberto_2018_subtropical storm	1068502500.0
+Alberto_2018_tropical depression	0.0
+Alberto_2018_tropical storm	2655350000.0
+Alex_2004_extratropical	0.0
+Alex_2004_hurricane	49159479326.92308
+Alex_2004_tropical depression	0.0
+Alex_2004_tropical storm	3834107142.857143
+Alex_2010_hurricane	43064687500.0
+Alex_2010_other low	0.0
+Alex_2010_tropical depression	0.0
+Alex_2010_tropical storm	2952802205.882353
+Alex_2016_extratropical	53591191810.344826
+Alex_2016_hurricane	23822290000.0
+Alex_2016_subtropical storm	3834766666.6666665
+Alex_2016_tropical storm	55968550000.0
+Alpha_2005_tropical depression	0.0
+Alpha_2005_tropical storm	159497656.25
+Ana_2009_other low	0.0
+Ana_2009_tropical depression	0.0
+Ana_2009_tropical storm	135056250.0
+Ana_2015_other low	577159090.9090909
+Ana_2015_subtropical storm	3742520000.0
+Ana_2015_tropical depression	0.0
+Ana_2015_tropical storm	2797483928.571429
+Ana_2021_extratropical	4987776388.888889
+Ana_2021_other low	38587500.0
+Ana_2021_subtropical storm	344429166.6666667
+Ana_2021_tropical storm	81129166.66666667
+Andrea_2013_extratropical	2775040000.0
+Andrea_2013_tropical storm	2121350000.0
+Arlene_2005_extratropical	0.0
+Arlene_2005_other low	0.0
+Arlene_2005_tropical depression	0.0
+Arlene_2005_tropical storm	3254130397.7272725
+Arlene_2011_other low	0.0
+Arlene_2011_tropical depression	0.0
+Arlene_2011_tropical storm	3463656250.0
+Arlene_2017_extratropical	15375758823.529411
+Arlene_2017_subtropical depression	0.0
+Arlene_2017_tropical depression	0.0
+Arlene_2017_tropical storm	1231582500.0
+Arthur_2008_other low	0.0
+Arthur_2008_tropical depression	0.0
+Arthur_2008_tropical storm	1786495535.7142856
+Arthur_2014_extratropical	6981627777.777778
+Arthur_2014_hurricane	16280378409.09091
+Arthur_2014_other low	0.0
+Arthur_2014_tropical depression	0.0
+Arthur_2014_tropical storm	2777378571.428571
+Arthur_2020_extratropical	12494642857.142857
+Arthur_2020_tropical depression	0.0
+Arthur_2020_tropical storm	2222382500.0
+Barry_2007_extratropical	3299681818.181818
+Barry_2007_other low	0.0
+Barry_2007_tropical depression	0.0
+Barry_2007_tropical storm	1130175000.0
+Barry_2013_other low	0.0
+Barry_2013_tropical depression	0.0
+Barry_2013_tropical storm	496797916.6666667
+Barry_2019_disturbance	0.0
+Barry_2019_hurricane	13291850000.0
+Barry_2019_other low	0.0
+Barry_2019_tropical depression	0.0
+Barry_2019_tropical storm	3966343750.0
+Bertha_2008_extratropical	17500134375.0
+Bertha_2008_hurricane	20152520262.096775
+Bertha_2008_tropical depression	0.0
+Bertha_2008_tropical storm	6588974671.052631
+Bertha_2014_extratropical	1368609375.0
+Bertha_2014_hurricane	7670950000.0
+Bertha_2014_other low	124363636.36363636
+Bertha_2014_tropical storm	1469310119.047619
+Bertha_2020_extratropical	0.0
+Bertha_2020_tropical depression	0.0
+Bertha_2020_tropical storm	32833333.333333332
+Beryl_2006_extratropical	3296015625.0
+Beryl_2006_tropical depression	0.0
+Beryl_2006_tropical storm	1923904427.0833333
+Beryl_2012_extratropical	573667500.0
+Beryl_2012_other low	1104660714.2857144
+Beryl_2012_subtropical storm	1965032142.857143
+Beryl_2012_tropical depression	0.0
+Beryl_2012_tropical storm	3949521428.571429
+Beryl_2018_disturbance	33660625.0
+Beryl_2018_hurricane	754937500.0
+Beryl_2018_other low	15435000.0
+Beryl_2018_subtropical storm	185077083.33333334
+Beryl_2018_tropical depression	0.0
+Beryl_2018_tropical storm	192455555.55555555
+Beta_2005_hurricane	5965966666.666667
+Beta_2005_tropical depression	0.0
+Beta_2005_tropical storm	779081944.4444444
+Beta_2020_extratropical	0.0
+Beta_2020_other low	0.0
+Beta_2020_tropical depression	0.0
+Beta_2020_tropical storm	3639627941.1764708
+Bill_2009_extratropical	39198503571.42857
+Bill_2009_hurricane	107671654799.10715
+Bill_2009_tropical depression	0.0
+Bill_2009_tropical storm	18243397222.22222
+Bill_2015_other low	0.0
+Bill_2015_tropical depression	0.0
+Bill_2015_tropical storm	2334610416.6666665
+Bill_2021_extratropical	428750000.0
+Bill_2021_other low	0.0
+Bill_2021_tropical depression	0.0
+Bill_2021_tropical storm	668000000.0
+Bonnie_2004_other low	0.0
+Bonnie_2004_tropical depression	0.0
+Bonnie_2004_tropical storm	459556490.38461536
+Bonnie_2004_tropical wave	0.0
+Bonnie_2010_other low	0.0
+Bonnie_2010_tropical depression	0.0
+Bonnie_2010_tropical storm	233745833.33333334
+Bonnie_2016_extratropical	0.0
+Bonnie_2016_other low	0.0
+Bonnie_2016_tropical depression	0.0
+Bonnie_2016_tropical storm	77515625.0
+Bret_2005_tropical depression	0.0
+Bret_2005_tropical storm	138629166.66666666
+Bret_2011_other low	0.0
+Bret_2011_tropical depression	0.0
+Bret_2011_tropical storm	798967382.8125
+Bret_2017_disturbance	92181250.0
+Bret_2017_tropical storm	870970000.0
+Chantal_2007_extratropical	39886943055.55556
+Chantal_2007_tropical depression	0.0
+Chantal_2007_tropical storm	4208695312.5
+Chantal_2013_tropical storm	1233191346.1538463
+Chantal_2019_other low	0.0
+Chantal_2019_tropical depression	0.0
+Chantal_2019_tropical storm	97540625.0
+Charley_2004_extratropical	321515625.0
+Charley_2004_hurricane	16135505989.583334
+Charley_2004_tropical depression	0.0
+Charley_2004_tropical storm	2157945535.714286
+Chris_2006_other low	0.0
+Chris_2006_tropical depression	0.0
+Chris_2006_tropical storm	519015000.0
+Chris_2012_extratropical	309019444.4444444
+Chris_2012_hurricane	5955195833.333333
+Chris_2012_other low	79625000.0
+Chris_2012_subtropical storm	599466666.6666666
+Chris_2012_tropical storm	1646033333.3333333
+Chris_2018_extratropical	5616916875.0
+Chris_2018_hurricane	17228993750.0
+Chris_2018_other low	0.0
+Chris_2018_tropical depression	0.0
+Chris_2018_tropical storm	3657683750.0
+Cindy_2005_extratropical	0.0
+Cindy_2005_hurricane	6179062500.0
+Cindy_2005_tropical depression	0.0
+Cindy_2005_tropical storm	1865976875.0
+Cindy_2011_other low	646593750.0
+Cindy_2011_tropical depression	0.0
+Cindy_2011_tropical storm	1821006250.0
+Cindy_2017_disturbance	1560262500.0
+Cindy_2017_other low	0.0
+Cindy_2017_tropical depression	0.0
+Cindy_2017_tropical storm	4384601250.0
+Claudette_2009_tropical depression	0.0
+Claudette_2009_tropical storm	557203125.0
+Claudette_2015_other low	77175000.0
+Claudette_2015_tropical depression	0.0
+Claudette_2015_tropical storm	786841666.6666666
+Claudette_2021_disturbance	800595000.0
+Claudette_2021_extratropical	1494387500.0
+Claudette_2021_tropical depression	0.0
+Claudette_2021_tropical storm	1498443750.0
+Colin_2010_disturbance	692646428.5714285
+Colin_2010_tropical depression	0.0
+Colin_2010_tropical storm	498011538.46153843
+Colin_2016_extratropical	9269550000.0
+Colin_2016_tropical depression	0.0
+Colin_2016_tropical storm	2757325000.0
+Cristobal_2008_tropical depression	0.0
+Cristobal_2008_tropical storm	1331783398.4375
+Cristobal_2014_extratropical	43408074218.75
+Cristobal_2014_hurricane	26904673214.285713
+Cristobal_2014_tropical depression	0.0
+Cristobal_2014_tropical storm	1237123214.2857144
+Cristobal_2020_extratropical	949252500.0
+Cristobal_2020_tropical depression	0.0
+Cristobal_2020_tropical storm	4929154891.304348
+Danielle_2004_hurricane	17030491294.642857
+Danielle_2004_other low	0.0
+Danielle_2004_tropical depression	0.0
+Danielle_2004_tropical storm	994600721.1538461
+Danielle_2010_extratropical	6237135000.0
+Danielle_2010_hurricane	57592767745.53571
+Danielle_2010_other low	44233959375.0
+Danielle_2010_tropical depression	0.0
+Danielle_2010_tropical storm	7658164285.714286
+Danielle_2016_other low	0.0
+Danielle_2016_tropical depression	0.0
+Danielle_2016_tropical storm	438343750.0
+Danny_2009_tropical storm	4434928125.0
+Danny_2015_hurricane	4367760000.0
+Danny_2015_other low	0.0
+Danny_2015_tropical depression	0.0
+Danny_2015_tropical storm	516904464.28571427
+Danny_2021_tropical depression	0.0
+Danny_2021_tropical storm	165221875.0
+Dean_2007_hurricane	118301411226.85185
+Dean_2007_tropical depression	0.0
+Dean_2007_tropical storm	933332142.8571428
+Debby_2006_other low	0.0
+Debby_2006_tropical depression	0.0
+Debby_2006_tropical storm	396865384.61538464
+Debby_2012_tropical depression	0.0
+Debby_2012_tropical storm	5926597500.0
+Debby_2018_extratropical	248062500.0
+Debby_2018_other low	69457500.0
+Debby_2018_subtropical storm	766033333.3333334
+Debby_2018_tropical storm	296305357.14285713
+Delta_2005_extratropical	4894841118.421053
+Delta_2005_subtropical storm	18566718750.0
+Delta_2005_tropical storm	13925890781.25
+Delta_2020_extratropical	0.0
+Delta_2020_hurricane	33246735526.31579
+Delta_2020_tropical depression	0.0
+Delta_2020_tropical storm	1998396875.0
+Dennis_2005_hurricane	84935953125.0
+Dennis_2005_other low	0.0
+Dennis_2005_tropical depression	0.0
+Dennis_2005_tropical storm	2094476785.7142856
+Dolly_2008_hurricane	15927951171.875
+Dolly_2008_other low	0.0
+Dolly_2008_tropical depression	0.0
+Dolly_2008_tropical storm	5839189955.357142
+Dolly_2014_other low	0.0
+Dolly_2014_tropical depression	0.0
+Dolly_2014_tropical storm	758142187.5
+Dolly_2020_other low	0.0
+Dolly_2020_subtropical depression	0.0
+Dolly_2020_subtropical storm	154350000.0
+Dolly_2020_tropical storm	205050000.0
+Don_2011_other low	0.0
+Don_2011_tropical depression	0.0
+Don_2011_tropical storm	221890000.0
+Don_2017_other low	0.0
+Don_2017_tropical depression	0.0
+Don_2017_tropical storm	106507500.0
+Dorian_2013_disturbance	25725000.0
+Dorian_2013_other low	0.0
+Dorian_2013_tropical depression	0.0
+Dorian_2013_tropical storm	282118750.0
+Dorian_2019_extratropical	71909521875.0
+Dorian_2019_hurricane	74398049431.81818
+Dorian_2019_other low	120550400000.0
+Dorian_2019_tropical depression	0.0
+Dorian_2019_tropical storm	450243750.0
+Earl_2004_tropical depression	0.0
+Earl_2004_tropical storm	439948125.0
+Earl_2010_extratropical	10442300000.0
+Earl_2010_hurricane	119689368500.0
+Earl_2010_other low	0.0
+Earl_2010_tropical depression	0.0
+Earl_2010_tropical storm	5708809868.421053
+Earl_2016_hurricane	9352800000.0
+Earl_2016_tropical depression	0.0
+Earl_2016_tropical storm	1871705833.3333333
+Edouard_2008_other low	0.0
+Edouard_2008_tropical depression	0.0
+Edouard_2008_tropical storm	922412109.375
+Edouard_2014_hurricane	46486324305.55556
+Edouard_2014_other low	76339285.71428572
+Edouard_2014_tropical depression	0.0
+Edouard_2014_tropical storm	3534072115.3846154
+Edouard_2020_extratropical	391254545.45454544
+Edouard_2020_other low	0.0
+Edouard_2020_tropical depression	0.0
+Edouard_2020_tropical storm	574418750.0
+Eight_2009_other low	0.0
+Eight_2009_tropical depression	0.0
+Eight_2013_other low	0.0
+Eight_2013_tropical depression	0.0
+Eight_2016_other low	0.0
+Eight_2016_tropical depression	0.0
+Eleven_2018_tropical depression	0.0
+Elsa_2021_extratropical	950400000.0
+Elsa_2021_hurricane	13270792500.0
+Elsa_2021_tropical depression	0.0
+Elsa_2021_tropical storm	2722558088.2352943
+Emily_2005_hurricane	49233194791.666664
+Emily_2005_tropical depression	0.0
+Emily_2005_tropical storm	2518540937.5
+Emily_2011_other low	0.0
+Emily_2011_tropical depression	0.0
+Emily_2011_tropical storm	754866346.1538461
+Emily_2011_tropical wave	0.0
+Emily_2017_other low	0.0
+Emily_2017_tropical depression	0.0
+Emily_2017_tropical storm	230845000.0
+Epsilon_2005_hurricane	11370723437.5
+Epsilon_2005_other low	0.0
+Epsilon_2005_tropical depression	0.0
+Epsilon_2005_tropical storm	3451790257.352941
+Epsilon_2020_extratropical	60696000000.0
+Epsilon_2020_hurricane	115198932894.73685
+Epsilon_2020_other low	0.0
+Epsilon_2020_tropical depression	0.0
+Epsilon_2020_tropical storm	24671175000.0
+Erika_2009_other low	0.0
+Erika_2009_tropical depression	0.0
+Erika_2009_tropical storm	1490795312.5
+Erika_2015_tropical storm	758388281.25
+Erin_2007_other low	25741250.0
+Erin_2007_tropical depression	0.0
+Erin_2007_tropical storm	212231250.0
+Erin_2013_other low	0.0
+Erin_2013_tropical depression	0.0
+Erin_2013_tropical storm	190163541.66666666
+Erin_2019_extratropical	154350000.0
+Erin_2019_tropical depression	0.0
+Erin_2019_tropical storm	349431250.0
+Ernesto_2006_extratropical	669517045.4545455
+Ernesto_2006_hurricane	3954600000.0
+Ernesto_2006_tropical depression	0.0
+Ernesto_2006_tropical storm	1131778356.4814816
+Ernesto_2012_hurricane	19513433333.333332
+Ernesto_2012_tropical depression	0.0
+Ernesto_2012_tropical storm	2251919642.857143
+Ernesto_2018_extratropical	1134472500.0
+Ernesto_2018_other low	720000000.0
+Ernesto_2018_subtropical depression	0.0
+Ernesto_2018_subtropical storm	923160000.0
+Ernesto_2018_tropical storm	1331200000.0
+Eta_2020_disturbance	0.0
+Eta_2020_extratropical	1458133333.3333333
+Eta_2020_hurricane	32724332954.545456
+Eta_2020_tropical depression	0.0
+Eta_2020_tropical storm	3411761397.0588236
+Fay_2008_extratropical	0.0
+Fay_2008_tropical depression	0.0
+Fay_2008_tropical storm	2210058617.4242425
+Fay_2014_hurricane	23343187500.0
+Fay_2014_other low	617400000.0
+Fay_2014_subtropical storm	1339100000.0
+Fay_2014_tropical storm	12513666666.666666
+Fay_2020_other low	0.0
+Fay_2020_tropical storm	1974014285.7142856
+Felix_2007_hurricane	43610128125.0
+Felix_2007_other low	0.0
+Felix_2007_tropical depression	0.0
+Felix_2007_tropical storm	1088294375.0
+Fernand_2013_other low	0.0
+Fernand_2013_tropical depression	0.0
+Fernand_2013_tropical storm	363965625.0
+Fernand_2019_disturbance	0.0
+Fernand_2019_tropical depression	0.0
+Fernand_2019_tropical storm	494852083.3333333
+Fifteen_2007_extratropical	789549107.1428572
+Fifteen_2007_other low	0.0
+Fifteen_2007_tropical depression	0.0
+Fifteen_2019_other low	0.0
+Fifteen_2019_tropical depression	0.0
+Fiona_2010_other low	14470312.5
+Fiona_2010_tropical depression	0.0
+Fiona_2010_tropical storm	1357547426.4705882
+Fiona_2016_other low	0.0
+Fiona_2016_tropical depression	0.0
+Fiona_2016_tropical storm	182417763.15789473
+Five_2010_other low	0.0
+Five_2010_tropical depression	0.0
+Florence_2006_extratropical	61350600500.0
+Florence_2006_hurricane	81018765625.0
+Florence_2006_tropical depression	0.0
+Florence_2006_tropical storm	14013842343.75
+Florence_2012_other low	0.0
+Florence_2012_tropical depression	0.0
+Florence_2012_tropical storm	674817187.5
+Florence_2018_extratropical	0.0
+Florence_2018_hurricane	57629105000.0
+Florence_2018_other low	0.0
+Florence_2018_tropical depression	0.0
+Florence_2018_tropical storm	3710145089.285714
+Four_2017_other low	0.0
+Four_2017_tropical depression	0.0
+Frances_2004_extratropical	30146484.375
+Frances_2004_hurricane	85525687421.875
+Frances_2004_tropical depression	0.0
+Frances_2004_tropical storm	6075235625.0
+Franklin_2005_extratropical	1473900000.0
+Franklin_2005_tropical depression	0.0
+Franklin_2005_tropical storm	1334643847.65625
+Franklin_2011_extratropical	73377500.0
+Franklin_2011_other low	0.0
+Franklin_2011_tropical depression	0.0
+Franklin_2011_tropical storm	192375000.0
+Franklin_2017_hurricane	16376970833.333334
+Franklin_2017_other low	0.0
+Franklin_2017_tropical depression	0.0
+Franklin_2017_tropical storm	3909206730.769231
+Fred_2009_hurricane	19404595738.636364
+Fred_2009_other low	0.0
+Fred_2009_tropical depression	0.0
+Fred_2009_tropical storm	1396065234.375
+Fred_2015_hurricane	5601082500.0
+Fred_2015_tropical depression	0.0
+Fred_2015_tropical storm	759999305.5555556
+Fred_2021_disturbance	113034090.9090909
+Fred_2021_extratropical	0.0
+Fred_2021_other low	0.0
+Fred_2021_tropical depression	0.0
+Fred_2021_tropical storm	862198437.5
+Gabrielle_2007_subtropical storm	689583333.3333334
+Gabrielle_2007_tropical depression	0.0
+Gabrielle_2007_tropical storm	557979687.5
+Gabrielle_2013_disturbance	0.0
+Gabrielle_2013_other low	0.0
+Gabrielle_2013_tropical depression	0.0
+Gabrielle_2013_tropical storm	1450912500.0
+Gabrielle_2019_extratropical	1820462500.0
+Gabrielle_2019_other low	0.0
+Gabrielle_2019_tropical depression	0.0
+Gabrielle_2019_tropical storm	2565345673.076923
+Gamma_2005_other low	0.0
+Gamma_2005_tropical depression	0.0
+Gamma_2005_tropical storm	393041319.4444444
+Gamma_2005_tropical wave	0.0
+Gamma_2020_hurricane	3954600000.0
+Gamma_2020_other low	0.0
+Gamma_2020_tropical depression	0.0
+Gamma_2020_tropical storm	2431712500.0
+Gaston_2004_extratropical	4968337500.0
+Gaston_2004_hurricane	1757600000.0
+Gaston_2004_tropical depression	0.0
+Gaston_2004_tropical storm	950853385.4166666
+Gaston_2010_other low	0.0
+Gaston_2010_tropical depression	0.0
+Gaston_2010_tropical storm	52521875.0
+Gaston_2016_hurricane	32482722685.185184
+Gaston_2016_other low	499035937.5
+Gaston_2016_tropical depression	0.0
+Gaston_2016_tropical storm	3950383088.2352943
+Gert_2005_other low	0.0
+Gert_2005_tropical depression	0.0
+Gert_2005_tropical storm	735156250.0
+Gert_2011_other low	62423437.5
+Gert_2011_tropical depression	0.0
+Gert_2011_tropical storm	738259375.0
+Gert_2017_extratropical	6370365000.0
+Gert_2017_hurricane	22071101388.88889
+Gert_2017_other low	0.0
+Gert_2017_tropical depression	0.0
+Gert_2017_tropical storm	2853528750.0
+Gonzalo_2014_extratropical	38525550000.0
+Gonzalo_2014_hurricane	52224107327.586205
+Gonzalo_2014_other low	0.0
+Gonzalo_2014_tropical depression	0.0
+Gonzalo_2014_tropical storm	816887500.0
+Gonzalo_2020_other low	0.0
+Gonzalo_2020_tropical depression	0.0
+Gonzalo_2020_tropical storm	201759821.42857143
+Gordon_2006_extratropical	26317180273.4375
+Gordon_2006_hurricane	21367713671.875
+Gordon_2006_tropical depression	0.0
+Gordon_2006_tropical storm	604668750.0
+Gordon_2012_hurricane	17931481250.0
+Gordon_2012_other low	1232578125.0
+Gordon_2012_tropical depression	0.0
+Gordon_2012_tropical storm	2246701250.0
+Gordon_2018_disturbance	0.0
+Gordon_2018_other low	0.0
+Gordon_2018_tropical depression	0.0
+Gordon_2018_tropical storm	1178457291.6666667
+Grace_2009_extratropical	2048835416.6666667
+Grace_2009_other low	324000000.0
+Grace_2009_tropical storm	890019140.625
+Grace_2015_tropical depression	0.0
+Grace_2015_tropical storm	349071590.90909094
+Grace_2021_hurricane	25708732500.0
+Grace_2021_tropical depression	0.0
+Grace_2021_tropical storm	2218460294.117647
+Gustav_2008_extratropical	0.0
+Gustav_2008_hurricane	71633827256.94444
+Gustav_2008_tropical depression	0.0
+Gustav_2008_tropical storm	1910950735.2941177
+Hanna_2008_extratropical	3523635937.5
+Hanna_2008_hurricane	21096016666.666668
+Hanna_2008_tropical depression	0.0
+Hanna_2008_tropical storm	11560455592.105263
+Hanna_2014_disturbance	0.0
+Hanna_2014_other low	0.0
+Hanna_2014_tropical depression	0.0
+Hanna_2014_tropical storm	210087500.0
+Hanna_2020_hurricane	13977520000.0
+Hanna_2020_tropical depression	0.0
+Hanna_2020_tropical storm	1423450000.0
+Harvey_2005_extratropical	4124127083.3333335
+Harvey_2005_other low	0.0
+Harvey_2005_tropical depression	0.0
+Harvey_2005_tropical storm	1860908152.173913
+Harvey_2011_tropical depression	0.0
+Harvey_2011_tropical storm	234939236.1111111
+Harvey_2017_extratropical	0.0
+Harvey_2017_hurricane	31715525000.0
+Harvey_2017_other low	0.0
+Harvey_2017_tropical depression	0.0
+Harvey_2017_tropical storm	1309708064.516129
+Harvey_2017_tropical wave	0.0
+Helene_2006_extratropical	45022018269.23077
+Helene_2006_hurricane	75484132954.54546
+Helene_2006_tropical depression	0.0
+Helene_2006_tropical storm	3411100937.5
+Helene_2012_other low	0.0
+Helene_2012_tropical depression	0.0
+Helene_2012_tropical storm	32093750.0
+Helene_2012_tropical wave	0.0
+Helene_2018_extratropical	11065600000.0
+Helene_2018_hurricane	18486561666.666668
+Helene_2018_tropical depression	0.0
+Helene_2018_tropical storm	7312115789.473684
+Henri_2009_other low	0.0
+Henri_2009_tropical depression	0.0
+Henri_2009_tropical storm	251581640.625
+Henri_2015_other low	0.0
+Henri_2015_tropical depression	0.0
+Henri_2015_tropical storm	1213122500.0
+Henri_2021_hurricane	9996350000.0
+Henri_2021_other low	0.0
+Henri_2021_tropical depression	0.0
+Henri_2021_tropical storm	2844613586.9565215
+Hermine_2004_extratropical	0.0
+Hermine_2004_tropical depression	0.0
+Hermine_2004_tropical storm	585518359.375
+Hermine_2010_other low	0.0
+Hermine_2010_tropical depression	0.0
+Hermine_2010_tropical storm	1388873437.5
+Hermine_2016_extratropical	11656001136.363636
+Hermine_2016_hurricane	13069381250.0
+Hermine_2016_tropical depression	0.0
+Hermine_2016_tropical storm	4537772727.272727
+Humberto_2007_hurricane	1855370312.5
+Humberto_2007_other low	0.0
+Humberto_2007_tropical depression	0.0
+Humberto_2007_tropical storm	354292968.75
+Humberto_2013_hurricane	29127376785.714287
+Humberto_2013_other low	1213407142.857143
+Humberto_2013_subtropical depression	0.0
+Humberto_2013_subtropical storm	820200000.0
+Humberto_2013_tropical depression	0.0
+Humberto_2013_tropical storm	4205289204.5454545
+Humberto_2019_extratropical	71516133333.33333
+Humberto_2019_hurricane	87874844852.94118
+Humberto_2019_other low	0.0
+Humberto_2019_tropical depression	0.0
+Humberto_2019_tropical storm	3365950000.0
+Ian_2016_extratropical	7337137500.0
+Ian_2016_other low	617400000.0
+Ian_2016_subtropical storm	5248800000.0
+Ian_2016_tropical storm	3838219642.857143
+Ida_2009_extratropical	992098125.0
+Ida_2009_hurricane	16111445312.5
+Ida_2009_tropical depression	0.0
+Ida_2009_tropical storm	4034767045.4545455
+Ida_2015_other low	0.0
+Ida_2015_tropical depression	0.0
+Ida_2015_tropical storm	1924869047.6190476
+Ida_2021_extratropical	2961811607.142857
+Ida_2021_hurricane	38666617307.69231
+Ida_2021_tropical depression	0.0
+Ida_2021_tropical storm	1105843750.0
+Igor_2010_extratropical	215506666666.66666
+Igor_2010_hurricane	164215835781.25
+Igor_2010_tropical depression	0.0
+Igor_2010_tropical storm	1410375937.5
+Ike_2008_extratropical	2416230000.0
+Ike_2008_hurricane	70131515767.04546
+Ike_2008_tropical depression	0.0
+Ike_2008_tropical storm	5340177864.583333
+Imelda_2019_tropical depression	0.0
+Imelda_2019_tropical storm	91133333.33333333
+Ingrid_2007_other low	0.0
+Ingrid_2007_tropical depression	0.0
+Ingrid_2007_tropical storm	259316250.0
+Ingrid_2013_hurricane	6052102083.333333
+Ingrid_2013_other low	0.0
+Ingrid_2013_tropical depression	0.0
+Ingrid_2013_tropical storm	1590475000.0
+Iota_2020_hurricane	112764313636.36363
+Iota_2020_other low	0.0
+Iota_2020_tropical depression	0.0
+Iota_2020_tropical storm	1665702777.7777777
+Irene_2005_hurricane	12730908333.333334
+Irene_2005_tropical depression	0.0
+Irene_2005_tropical storm	3262090760.869565
+Irene_2011_extratropical	19002240000.0
+Irene_2011_hurricane	62442998625.0
+Irene_2011_tropical storm	12079697569.444445
+Irma_2017_hurricane	137508380769.23077
+Irma_2017_other low	0.0
+Irma_2017_tropical depression	0.0
+Irma_2017_tropical storm	9058016071.428572
+Isaac_2006_extratropical	5598043750.0
+Isaac_2006_hurricane	14831950390.625
+Isaac_2006_tropical depression	0.0
+Isaac_2006_tropical storm	5550702556.818182
+Isaac_2012_hurricane	34404589285.71429
+Isaac_2012_other low	0.0
+Isaac_2012_tropical depression	0.0
+Isaac_2012_tropical storm	9549416666.666666
+Isaac_2018_hurricane	988650000.0
+Isaac_2018_tropical depression	0.0
+Isaac_2018_tropical storm	1751769886.3636363
+Isaias_2020_disturbance	3374866666.6666665
+Isaias_2020_extratropical	1198800000.0
+Isaias_2020_hurricane	14664671875.0
+Isaias_2020_tropical storm	7190847656.25
+Ivan_2004_extratropical	106115625.0
+Ivan_2004_hurricane	149638917663.0435
+Ivan_2004_other low	0.0
+Ivan_2004_tropical depression	0.0
+Ivan_2004_tropical storm	2189402884.6153846
+Jeanne_2004_extratropical	759244791.6666666
+Jeanne_2004_hurricane	33332634735.576923
+Jeanne_2004_tropical depression	0.0
+Jeanne_2004_tropical storm	2538971514.423077
+Jerry_2007_subtropical depression	0.0
+Jerry_2007_subtropical storm	1167271875.0
+Jerry_2007_tropical depression	0.0
+Jerry_2007_tropical storm	643125000.0
+Jerry_2013_other low	126546428.57142857
+Jerry_2013_tropical depression	0.0
+Jerry_2013_tropical storm	262300892.85714287
+Jerry_2019_hurricane	4755016666.666667
+Jerry_2019_other low	508747500.0
+Jerry_2019_tropical depression	0.0
+Jerry_2019_tropical storm	3835966875.0
+Joaquin_2015_extratropical	3593748000.0
+Joaquin_2015_hurricane	84699346370.96774
+Joaquin_2015_other low	10299733333.333334
+Joaquin_2015_tropical depression	0.0
+Joaquin_2015_tropical storm	11263658928.571428
+Jose_2005_tropical depression	0.0
+Jose_2005_tropical storm	184566666.66666666
+Jose_2011_other low	30353645.833333332
+Jose_2011_tropical depression	0.0
+Jose_2011_tropical storm	86594791.66666667
+Jose_2017_hurricane	36604854687.5
+Jose_2017_other low	147852500.0
+Jose_2017_tropical depression	0.0
+Jose_2017_tropical storm	14763777976.190475
+Josephine_2008_other low	0.0
+Josephine_2008_tropical depression	0.0
+Josephine_2008_tropical storm	2034724166.6666667
+Josephine_2020_other low	0.0
+Josephine_2020_tropical depression	0.0
+Josephine_2020_tropical storm	362895454.54545456
+Joyce_2012_other low	0.0
+Joyce_2012_tropical depression	0.0
+Joyce_2012_tropical storm	1003275000.0
+Joyce_2018_extratropical	2665406250.0
+Joyce_2018_other low	0.0
+Joyce_2018_subtropical storm	796739583.3333334
+Joyce_2018_tropical depression	0.0
+Joyce_2018_tropical storm	74317500.0
+Julia_2010_hurricane	28760271428.57143
+Julia_2010_other low	607624080.882353
+Julia_2010_tropical depression	0.0
+Julia_2010_tropical storm	5809484375.0
+Julia_2016_extratropical	0.0
+Julia_2016_other low	0.0
+Julia_2016_tropical depression	0.0
+Julia_2016_tropical storm	323616071.4285714
+Julian_2021_extratropical	2155765000.0
+Julian_2021_other low	0.0
+Julian_2021_tropical depression	0.0
+Julian_2021_tropical storm	1095172500.0
+Karen_2007_hurricane	6769506250.0
+Karen_2007_other low	0.0
+Karen_2007_tropical depression	0.0
+Karen_2007_tropical storm	4549253571.428572
+Karen_2013_tropical depression	0.0
+Karen_2013_tropical storm	2184712500.0
+Karen_2019_tropical depression	0.0
+Karen_2019_tropical storm	286100657.8947368
+Karl_2004_extratropical	54734845673.07692
+Karl_2004_hurricane	150994734933.0357
+Karl_2004_tropical depression	0.0
+Karl_2004_tropical storm	1643137500.0
+Karl_2010_hurricane	19561921428.57143
+Karl_2010_other low	0.0
+Karl_2010_tropical depression	0.0
+Karl_2010_tropical storm	630895937.5
+Karl_2016_extratropical	10551345833.333334
+Karl_2016_other low	0.0
+Karl_2016_tropical depression	0.0
+Karl_2016_tropical storm	2480886428.571429
+Kate_2015_extratropical	46705350000.0
+Kate_2015_hurricane	21092815625.0
+Kate_2015_tropical depression	0.0
+Kate_2015_tropical storm	891919642.8571428
+Kate_2021_other low	0.0
+Kate_2021_tropical depression	0.0
+Kate_2021_tropical storm	69357500.0
+Katia_2011_extratropical	62420817500.0
+Katia_2011_hurricane	50587454605.26316
+Katia_2011_other low	0.0
+Katia_2011_tropical depression	0.0
+Katia_2011_tropical storm	1964204687.5
+Katia_2017_hurricane	4100406818.181818
+Katia_2017_tropical depression	0.0
+Katia_2017_tropical storm	196529166.66666666
+Katrina_2005_extratropical	0.0
+Katrina_2005_hurricane	125581810351.5625
+Katrina_2005_tropical depression	0.0
+Katrina_2005_tropical storm	1458682812.5
+Kirk_2012_extratropical	1312200000.0
+Kirk_2012_hurricane	4285000000.0
+Kirk_2012_tropical depression	0.0
+Kirk_2012_tropical storm	1224972916.6666667
+Kirk_2018_tropical depression	0.0
+Kirk_2018_tropical storm	2231313235.2941175
+Kirk_2018_tropical wave	482160000.0
+Kyle_2008_extratropical	5512533333.333333
+Kyle_2008_hurricane	25434307142.857143
+Kyle_2008_tropical depression	0.0
+Kyle_2008_tropical storm	3774773958.3333335
+Kyle_2020_extratropical	2075150000.0
+Kyle_2020_tropical storm	591000000.0
+Larry_2021_extratropical	38715468750.0
+Larry_2021_hurricane	66225542434.210526
+Larry_2021_tropical depression	0.0
+Larry_2021_tropical storm	1185760000.0
+Laura_2008_extratropical	47629027272.72727
+Laura_2008_other low	11027133333.333334
+Laura_2008_subtropical storm	21947500000.0
+Laura_2008_tropical storm	20124025000.0
+Laura_2020_hurricane	59633100000.0
+Laura_2020_other low	0.0
+Laura_2020_tropical depression	0.0
+Laura_2020_tropical storm	3001908522.7272725
+Lee_2005_other low	0.0
+Lee_2005_tropical depression	0.0
+Lee_2005_tropical storm	154350000.0
+Lee_2011_extratropical	1525669642.857143
+Lee_2011_subtropical storm	6824673611.111111
+Lee_2011_tropical depression	0.0
+Lee_2011_tropical storm	3454585156.25
+Lee_2017_disturbance	0.0
+Lee_2017_hurricane	8536392613.636364
+Lee_2017_other low	4410450000.0
+Lee_2017_tropical depression	0.0
+Lee_2017_tropical storm	1136339285.7142856
+Leslie_2012_extratropical	51746090625.0
+Leslie_2012_hurricane	31179723076.923077
+Leslie_2012_other low	0.0
+Leslie_2012_tropical depression	0.0
+Leslie_2012_tropical storm	12424271428.571428
+Leslie_2018_extratropical	37786508750.0
+Leslie_2018_hurricane	42488594047.61905
+Leslie_2018_subtropical depression	0.0
+Leslie_2018_subtropical storm	7650077272.727273
+Leslie_2018_tropical storm	19595840357.142857
+Lisa_2004_extratropical	1423828125.0
+Lisa_2004_hurricane	4641162500.0
+Lisa_2004_tropical depression	0.0
+Lisa_2004_tropical storm	3885308680.5555553
+Lisa_2010_hurricane	2217600000.0
+Lisa_2010_other low	0.0
+Lisa_2010_tropical depression	0.0
+Lisa_2010_tropical storm	468946875.0
+Lisa_2016_other low	78371428.57142857
+Lisa_2016_tropical depression	0.0
+Lisa_2016_tropical storm	850868055.5555556
+Lorenzo_2007_hurricane	3088125000.0
+Lorenzo_2007_tropical depression	0.0
+Lorenzo_2007_tropical storm	1038825000.0
+Lorenzo_2013_other low	0.0
+Lorenzo_2013_tropical depression	0.0
+Lorenzo_2013_tropical storm	540720000.0
+Lorenzo_2019_extratropical	80290851562.5
+Lorenzo_2019_hurricane	183946122500.0
+Lorenzo_2019_other low	0.0
+Lorenzo_2019_tropical depression	0.0
+Lorenzo_2019_tropical storm	6646435937.5
+Marco_2008_tropical depression	0.0
+Marco_2008_tropical storm	84187500.0
+Marco_2020_hurricane	3693706250.0
+Marco_2020_other low	0.0
+Marco_2020_tropical depression	0.0
+Marco_2020_tropical storm	1039280681.8181819
+Maria_2005_extratropical	66226041666.666664
+Maria_2005_hurricane	26855753125.0
+Maria_2005_tropical depression	0.0
+Maria_2005_tropical storm	10264007451.923077
+Maria_2011_disturbance	3078885937.5
+Maria_2011_hurricane	20012062500.0
+Maria_2011_tropical depression	0.0
+Maria_2011_tropical storm	4801522443.181818
+Maria_2017_extratropical	7616757812.5
+Maria_2017_hurricane	75682215000.0
+Maria_2017_tropical depression	0.0
+Maria_2017_tropical storm	15407249107.142857
+Matthew_2004_extratropical	0.0
+Matthew_2004_tropical depression	0.0
+Matthew_2004_tropical storm	820769642.8571428
+Matthew_2010_other low	0.0
+Matthew_2010_tropical depression	0.0
+Matthew_2010_tropical storm	1588775625.0
+Matthew_2016_extratropical	32605029166.666668
+Matthew_2016_hurricane	96855607142.85715
+Matthew_2016_tropical storm	12338967500.0
+Melissa_2007_other low	0.0
+Melissa_2007_tropical depression	0.0
+Melissa_2007_tropical storm	617400000.0
+Melissa_2013_extratropical	5797620000.0
+Melissa_2013_other low	7877756250.0
+Melissa_2013_subtropical storm	22387885714.285713
+Melissa_2013_tropical storm	12053748214.285715
+Melissa_2019_extratropical	13870575000.0
+Melissa_2019_subtropical storm	24276262500.0
+Melissa_2019_tropical storm	1202146875.0
+Michael_2012_hurricane	6778405952.380953
+Michael_2012_other low	65460937.5
+Michael_2012_tropical depression	0.0
+Michael_2012_tropical storm	557390277.7777778
+Michael_2018_extratropical	43498878125.0
+Michael_2018_hurricane	75472637500.0
+Michael_2018_other low	0.0
+Michael_2018_tropical depression	0.0
+Michael_2018_tropical storm	4630142857.142858
+Mindy_2021_other low	0.0
+Mindy_2021_tropical depression	0.0
+Mindy_2021_tropical storm	113246875.0
+Nadine_2012_hurricane	18642402380.95238
+Nadine_2012_other low	12718269642.857143
+Nadine_2012_tropical depression	0.0
+Nadine_2012_tropical storm	12183739717.741936
+Nadine_2018_other low	0.0
+Nadine_2018_tropical depression	0.0
+Nadine_2018_tropical storm	947445192.3076923
+Nana_2008_other low	0.0
+Nana_2008_tropical depression	0.0
+Nana_2008_tropical storm	275739843.75
+Nana_2020_hurricane	2746250000.0
+Nana_2020_other low	0.0
+Nana_2020_tropical depression	0.0
+Nana_2020_tropical storm	847550000.0
+Nate_2005_extratropical	5627745833.333333
+Nate_2005_hurricane	20891712500.0
+Nate_2005_tropical depression	0.0
+Nate_2005_tropical storm	5828468750.0
+Nate_2011_hurricane	10442615625.0
+Nate_2011_other low	48234375.0
+Nate_2011_tropical storm	2491149023.4375
+Nate_2017_extratropical	0.0
+Nate_2017_hurricane	11721130000.0
+Nate_2017_other low	0.0
+Nate_2017_tropical depression	0.0
+Nate_2017_tropical storm	936038750.0
+Nestor_2019_disturbance	989370000.0
+Nestor_2019_extratropical	3041714285.714286
+Nestor_2019_tropical storm	2950000000.0
+Nicholas_2021_hurricane	8595762500.0
+Nicholas_2021_other low	0.0
+Nicholas_2021_tropical depression	0.0
+Nicholas_2021_tropical storm	1621015625.0
+Nicole_2010_extratropical	5760000000.0
+Nicole_2010_other low	3456000000.0
+Nicole_2010_tropical storm	4619250000.0
+Nicole_2016_extratropical	43301047500.0
+Nicole_2016_hurricane	100631789224.13792
+Nicole_2016_tropical storm	6658750000.0
+Nine_2015_other low	0.0
+Nine_2015_tropical depression	0.0
+Nineteen_2005_tropical depression	0.0
+Noel_2007_extratropical	137007909615.38461
+Noel_2007_hurricane	48476618750.0
+Noel_2007_other low	0.0
+Noel_2007_tropical depression	0.0
+Noel_2007_tropical storm	3868601388.888889
+Odette_2021_extratropical	9617101500.0
+Odette_2021_other low	156922500.0
+Odette_2021_tropical storm	2095050000.0
+Olga_2007_other low	164130859.375
+Olga_2007_subtropical storm	2828750000.0
+Olga_2007_tropical depression	0.0
+Olga_2007_tropical storm	5939843750.0
+Olga_2019_extratropical	826568750.0
+Olga_2019_tropical storm	342000000.0
+Omar_2008_hurricane	18871057031.25
+Omar_2008_other low	78177272.72727273
+Omar_2008_tropical depression	0.0
+Omar_2008_tropical storm	2146589583.3333333
+Omar_2020_other low	0.0
+Omar_2020_tropical depression	0.0
+Omar_2020_tropical storm	210087500.0
+One_2009_other low	0.0
+One_2009_tropical depression	0.0
+Ophelia_2005_extratropical	2800087500.0
+Ophelia_2005_hurricane	16895255664.0625
+Ophelia_2005_tropical depression	0.0
+Ophelia_2005_tropical storm	6872077546.296296
+Ophelia_2011_disturbance	0.0
+Ophelia_2011_extratropical	8846263020.833334
+Ophelia_2011_hurricane	65295157142.85714
+Ophelia_2011_other low	0.0
+Ophelia_2011_tropical depression	0.0
+Ophelia_2011_tropical storm	6242259000.0
+Ophelia_2017_extratropical	44258725000.0
+Ophelia_2017_hurricane	26095536764.705883
+Ophelia_2017_other low	31961363.636363637
+Ophelia_2017_tropical storm	1263471250.0
+Oscar_2012_other low	0.0
+Oscar_2012_tropical depression	0.0
+Oscar_2012_tropical storm	2284056250.0
+Oscar_2018_extratropical	194042442187.5
+Oscar_2018_hurricane	13060489583.333334
+Oscar_2018_subtropical storm	3391653125.0
+Oscar_2018_tropical storm	5748734375.0
+Otto_2004_extratropical	9162866071.428572
+Otto_2004_other low	0.0
+Otto_2004_subtropical storm	5103968750.0
+Otto_2004_tropical depression	0.0
+Otto_2004_tropical storm	1484147767.857143
+Otto_2010_extratropical	6628306250.0
+Otto_2010_hurricane	21910218750.0
+Otto_2010_other low	0.0
+Otto_2010_subtropical depression	0.0
+Otto_2010_subtropical storm	3891037500.0
+Otto_2010_tropical storm	7693357500.0
+Otto_2016_hurricane	6564923214.285714
+Otto_2016_other low	0.0
+Otto_2016_tropical depression	0.0
+Otto_2016_tropical storm	1223061718.75
+Pablo_2019_extratropical	4598628125.0
+Pablo_2019_hurricane	2501381250.0
+Pablo_2019_subtropical storm	227233333.33333334
+Pablo_2019_tropical storm	619481944.4444444
+Paloma_2008_hurricane	22112471562.5
+Paloma_2008_other low	0.0
+Paloma_2008_tropical depression	0.0
+Paloma_2008_tropical storm	432465000.0
+Patty_2012_other low	0.0
+Patty_2012_tropical depression	0.0
+Patty_2012_tropical storm	195303125.0
+Paula_2010_hurricane	4172219375.0
+Paula_2010_other low	0.0
+Paula_2010_tropical depression	0.0
+Paula_2010_tropical storm	990837946.4285715
+Paulette_2020_extratropical	30733635227.272728
+Paulette_2020_hurricane	58506575000.0
+Paulette_2020_other low	235471370.96774194
+Paulette_2020_tropical depression	0.0
+Paulette_2020_tropical storm	5215437931.034483
+Peter_2021_tropical depression	0.0
+Peter_2021_tropical storm	1115265000.0
+Philippe_2005_hurricane	3501238020.8333335
+Philippe_2005_other low	0.0
+Philippe_2005_tropical depression	0.0
+Philippe_2005_tropical storm	1163502757.3529413
+Philippe_2011_extratropical	8561756250.0
+Philippe_2011_hurricane	8202912187.5
+Philippe_2011_other low	0.0
+Philippe_2011_tropical depression	0.0
+Philippe_2011_tropical storm	1940563750.0
+Philippe_2017_disturbance	0.0
+Philippe_2017_tropical depression	0.0
+Philippe_2017_tropical storm	617400000.0
+Rafael_2012_extratropical	39355526041.666664
+Rafael_2012_hurricane	39345806250.0
+Rafael_2012_tropical storm	3881031250.0
+Rene_2020_other low	0.0
+Rene_2020_tropical depression	0.0
+Rene_2020_tropical storm	176877343.75
+Richard_2010_hurricane	8390295833.333333
+Richard_2010_other low	0.0
+Richard_2010_tropical depression	0.0
+Richard_2010_tropical storm	965801302.0833334
+Rina_2011_hurricane	18473517329.545456
+Rina_2011_other low	0.0
+Rina_2011_tropical depression	0.0
+Rina_2011_tropical storm	1490622222.2222223
+Rina_2017_other low	2315885714.285714
+Rina_2017_tropical depression	0.0
+Rina_2017_tropical storm	3621390277.7777777
+Rita_2005_hurricane	132971942830.88235
+Rita_2005_other low	0.0
+Rita_2005_tropical depression	0.0
+Rita_2005_tropical storm	3461756597.2222223
+Rose_2021_other low	0.0
+Rose_2021_tropical depression	0.0
+Rose_2021_tropical storm	464356250.0
+Sally_2020_extratropical	0.0
+Sally_2020_hurricane	18181305000.0
+Sally_2020_tropical depression	0.0
+Sally_2020_tropical storm	2659257500.0
+Sam_2021_extratropical	66908350000.0
+Sam_2021_hurricane	91258381818.18182
+Sam_2021_tropical depression	0.0
+Sam_2021_tropical storm	463821875.0
+Sandy_2012_extratropical	127092408333.33333
+Sandy_2012_hurricane	161928392934.78262
+Sandy_2012_other low	0.0
+Sandy_2012_tropical depression	0.0
+Sandy_2012_tropical storm	20983720833.333332
+Sean_2011_extratropical	8092869318.181818
+Sean_2011_other low	7840000000.0
+Sean_2011_subtropical storm	15706406250.0
+Sean_2011_tropical storm	14274915384.615385
+Sebastien_2019_extratropical	12526036363.636364
+Sebastien_2019_tropical storm	3924917391.304348
+Shary_2010_extratropical	3743437500.0
+Shary_2010_hurricane	5666429166.666667
+Shary_2010_tropical depression	0.0
+Shary_2010_tropical storm	1814526562.5
+Sixteen_2008_other low	0.0
+Sixteen_2008_tropical depression	0.0
+Stan_2005_hurricane	8407420312.5
+Stan_2005_tropical depression	0.0
+Stan_2005_tropical storm	933307031.25
+Tammy_2005_other low	0.0
+Tammy_2005_tropical depression	0.0
+Tammy_2005_tropical storm	3665640625.0
+Teddy_2020_extratropical	31646880000.0
+Teddy_2020_hurricane	114842407327.58621
+Teddy_2020_tropical depression	0.0
+Teddy_2020_tropical storm	2996782812.5
+Ten_2005_other low	0.0
+Ten_2005_tropical depression	0.0
+Ten_2007_other low	0.0
+Ten_2007_subtropical depression	0.0
+Ten_2007_tropical depression	0.0
+Ten_2011_other low	0.0
+Ten_2011_tropical depression	0.0
+Ten_2020_other low	0.0
+Ten_2020_tropical depression	0.0
+Theta_2020_extratropical	87281250.0
+Theta_2020_other low	0.0
+Theta_2020_subtropical storm	5982112500.0
+Theta_2020_tropical depression	0.0
+Theta_2020_tropical storm	8941204166.666666
+Three_2019_tropical depression	0.0
+Tomas_2010_extratropical	8595644531.25
+Tomas_2010_hurricane	11989162019.23077
+Tomas_2010_tropical depression	0.0
+Tomas_2010_tropical storm	2828962500.0
+Tony_2012_extratropical	137200000.0
+Tony_2012_other low	0.0
+Tony_2012_tropical depression	0.0
+Tony_2012_tropical storm	733126785.7142857
+Two_2010_other low	0.0
+Two_2010_tropical depression	0.0
+Two_2014_other low	0.0
+Two_2014_tropical depression	0.0
+Vicky_2020_other low	0.0
+Vicky_2020_tropical depression	0.0
+Vicky_2020_tropical storm	616994230.7692307
+Victor_2021_other low	0.0
+Victor_2021_tropical depression	0.0
+Victor_2021_tropical storm	2395615625.0
+Vince_2005_hurricane	5382650000.0
+Vince_2005_subtropical storm	1169805000.0
+Vince_2005_tropical depression	0.0
+Vince_2005_tropical storm	1619240000.0
+Wanda_2021_extratropical	31955288815.789474
+Wanda_2021_other low	393095833.3333333
+Wanda_2021_subtropical storm	1951176562.5
+Wanda_2021_tropical storm	1025428125.0
+Wilfred_2020_other low	0.0
+Wilfred_2020_tropical depression	0.0
+Wilfred_2020_tropical storm	542563636.3636364
+Wilma_2005_extratropical	47227714843.75
+Wilma_2005_hurricane	174356080625.0
+Wilma_2005_tropical depression	0.0
+Wilma_2005_tropical storm	1308662500.0
+Zeta_2005_tropical depression	0.0
+Zeta_2005_tropical storm	4492317410.714286
+Zeta_2006_other low	0.0
+Zeta_2006_tropical depression	0.0
+Zeta_2006_tropical storm	3279437946.428571
+Zeta_2020_extratropical	12547912500.0
+Zeta_2020_hurricane	15285157954.545454
+Zeta_2020_tropical depression	0.0
+Zeta_2020_tropical storm	3408022500.0

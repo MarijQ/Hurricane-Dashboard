@@ -1,0 +1,9 @@
+disturbance	566380394.6656414
+extratropical	18823419492.665813
+hurricane	39615069422.654724
+other low	1214115414.5764828
+subtropical depression	0.0
+subtropical storm	5340332039.35961
+tropical depression	0.0
+tropical storm	3020581259.455001
+tropical wave	80360000.0
